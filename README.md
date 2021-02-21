@@ -20,5 +20,8 @@ If you want to view the working code follow this link [HTML CODE](index.html) an
 
 [W3 School tutorials HTML Accessibility](https://www.w3schools.com/html/html_accessibility.asp).
 
+[Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing).
+
+
 # License
 The [MIT](LICENSE) license was chosen for this project. 
